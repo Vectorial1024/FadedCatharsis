@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<packageId>V1024.FadedCatharsis</packageId>
+	<name>Faded Catharsis</name>
+	<author>Vectorial1024</author>
+	<supportedVersions>
+		<li>1.8</li>
+		<li>1.7</li>
+		<li>1.6</li>
+		<li>1.5</li>
+		<li>1.4</li>
+		<li>1.3</li>
+		<li>1.2</li>
+		<li>1.1</li>
+		<li>1.0</li>
+	</supportedVersions>
+	<description>A very simple patch-mod that significantly nerfs the Catharsis thought: Catharsis now only provides +5 mood instead of +40 mood.
+
+Play like the OGs did! Remember that time when the v0.xx alpha-stage RimWorld doesn't even have this thing called "Catharsis". Mental break death spirals are real!
+
+(Void Catharsis from the Anomaly DLC is unchanged for DLC-lore reasons.)
+
+As a rule of thumb, it is unlikely that this mod will cause any problems with any future RimWorld releases, but do tell me otherwise.</description>
+</ModMetaData>
