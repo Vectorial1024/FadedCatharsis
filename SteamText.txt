@@ -1,0 +1,23 @@
+Play like the OGs! Catharsis thought now only provides +5 mood instead of +40 mood.
+[list]
+[*]Safe to add to existing saves
+[*]Also safe to remove from existing saves
+[*]Has no problems with any other mods
+[*]Place anywhere after Core in load order
+[*]Non-Steam downloads please scroll further down
+[/list]
+Package ID: V1024.FadedCatharsis
+
+[h1]Why this mod was made[/h1]
+It was on a Reddit thread that I was reminded about this: in the distant past, we didn't even have "Catharsis" in RimWorld. Unfortunate colonists would experience mental breaks over and over again with no salvation.
+
+Some OGs described this as the "death spiral".
+
+Obviously, this mod is not for everyone, but if you somehow want the extra challenge from the good old days, feel free to give this a go.
+
+Note: Void Catharsis from the Anomaly DLC remains unchanged for DLC-lore reasons.
+
+[h1]GPD Declaration and Non-Steam Downloads[/h1]
+[b][u]I now declare that this mod is in General Public Domain.[/u][/b] Do what you want to do with this mod.
+
+Non-Steam downloads and the source code now available on the GitHub repo of this mod ( https://github.com/Vectorial1024/FadedCatharsis ). Follow the instructions in the README.md file to download the mod.
